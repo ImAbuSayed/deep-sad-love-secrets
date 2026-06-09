@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-sad-love-secrets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Deep Sad Love Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sad-love-secrets/) |
+| **Get License** | [Get License For Deep Sad Love Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sad-love-secrets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `04beee64fa654daf248bb1c4e1c7ac431a4f22750f6ff51820f20f2b58f9ae89` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
