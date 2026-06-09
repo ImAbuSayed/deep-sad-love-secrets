@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-sad-love-secrets/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Deep Sad Love Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sad-love-secrets/) |
+| **Get License** | [Commercial Licensing for Deep Sad Love Secrets](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-sad-love-secrets/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows falling on your skin
+> A quiet confession where the night begins
+> You hold a mystery I'm dying to know
+> These deep sad love secrets wherever we go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
